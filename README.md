@@ -1,2 +1,2 @@
 # Marquette-AIM-TSA
-The Marquette AIM Time Series Analysis Curriculum
+Welcome to the Marquette AIM Time Series Analysis Curriculum
